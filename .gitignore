@@ -1,0 +1,18 @@
+# Runtime databases
+database/
+alerts/
+state/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Credentials
+.env
+.env.*
+*secret*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
