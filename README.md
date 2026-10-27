@@ -16,7 +16,6 @@ The illustrations below summarize the implemented architecture and dashboard. Th
 
 ![Pi-SOC architecture illustration](docs/images/architecture.svg)
 
-For real screenshots, capture your local dashboard and add them to `docs/images/` after checking for private IP addresses, credentials, or other sensitive details.
 
 ## Architecture
 
