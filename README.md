@@ -8,13 +8,15 @@ A lightweight self-hosted SOC learning lab on a Raspberry Pi 3. Pi-SOC processes
 >
 > **Scope:** Educational portfolio project, not a production SIEM. `192.0.2.10` is a reserved synthetic test IP.
 
-## Screenshots
+## Visual overview
 
-![SOC dashboard with simulated investigation](docs/images/dashboard-investigation.png)
+The illustrations below summarize the implemented architecture and dashboard. They are **illustrations**, not screenshots of live incidents.
 
-![Dashboard before alerts](docs/images/dashboard-empty.png)
+![Pi-SOC dashboard illustration](docs/images/dashboard-overview.svg)
 
-![systemd monitoring](docs/images/systemd-monitoring.png)
+![Pi-SOC architecture illustration](docs/images/architecture.svg)
+
+For real screenshots, capture your local dashboard and add them to `docs/images/` after checking for private IP addresses, credentials, or other sensitive details.
 
 ## Architecture
 
